@@ -1,0 +1,5 @@
+tensorflow
+streamlit
+mobilenetV2
+pillow
+numpy and pandas
